@@ -19,7 +19,7 @@
 - 🌱 Currently learning the MERN stack.
 - 👯 Looking to collaborate on web development projects.
 - 💬 Ask me about JavaScript, React, Node, and web fundamentals.
-- ⚡ Fun fact: I love going to the gym.
+- ⚡ Fun fact: I love playing football and chess.
 
 ---
 
@@ -68,47 +68,6 @@
 
 ---
 
-## 📚 Skills
-
-- **Programming:** Java, Python, JavaScript
-- **Web Development:** React, Tailwind CSS, Next.js, Node.js, Express.js
-- **Databases:** MongoDB, SQL
-- **Architecture:** System Design, Distributed Systems, Data Structures and Algorithms
-- **Practices & Tools:** Agile Development, Postman, Git/GitHub, Software Engineering Practices
-
----
-
-## 💼 Experience
-
-- **Freelance Software Developer** — Remote  
-  Mar 2025 – Jun 2025  
-  Client Dashboard Project: Built modular frontend with React/TypeScript (Zod, TanStack Query, Tailwind CSS) and monorepo architecture (Turborepo); focused on high-quality software and responsive design.
-
-- **Software Developer Intern — Elite Software** — Remote  
-  Oct 2024 – Mar 2025  
-  Contributed to feature implementation and bug fixing in client projects; gained hands-on experience across frontend and backend.
-
----
-
-## 🚀 Projects
-
-- **Dynamic Class Scheduling**  
-  Technologies: Gemini API, Python, Algorithm Design, Optimization Techniques  
-  - Optimized student–teacher–classroom allocation using a greedy, matrix-based approach.  
-  - Implemented AI assistant to handle student queries.
-
-- **Chess Platform**  
-  Technologies: Chess.js, React, Node.js, Express.js, Socket.IO, MongoDB, WebSockets, Tailwind CSS  
-  - Interactive chessboard with drag-and-drop, real-time move validation, and game state management.  
-  - Emphasis on responsive UI/UX and seamless gameplay.
-
-- **Ride Sharing Platform**  
-  Technologies: React, Node.js, Express.js, MongoDB, RabbitMQ, Google Maps API, Microservices Architecture  
-  - Real-time ride requests, geolocation tracking, dynamic fare calculation.  
-  - Microservices architecture with Kafka/RabbitMQ for high availability and efficient concurrent handling.
-
----
-
 ## 🎓 Education
 
 - **Veermata Jijabai Technological Institute (VJTI)** — MCA, Mumbai, Maharashtra  
@@ -127,15 +86,3 @@
 - Academic Topper in Graduation
 
 ---
-
-## 📜 Certifications
-
-- IBM Full Stack Developer
-- Hands-on Google Cloud (Coursera)
-
----
-
-## 🎯 Interests
-
-- Cricket, Chess, Problem Solving, Technology Trends  
-- Volunteering at WillPower Foundation (Old Age Home)
