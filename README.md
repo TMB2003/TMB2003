@@ -58,4 +58,84 @@
   <a href="https://www.linkedin.com/in/taha-balapurwala/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/taha_mb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:contact.tahab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
+  </a>
 </p>
+
+---
+
+## 📚 Skills
+
+- **Programming:** Java, Python, JavaScript
+- **Web Development:** React, Tailwind CSS, Next.js, Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Architecture:** System Design, Distributed Systems, Data Structures and Algorithms
+- **Practices & Tools:** Agile Development, Postman, Git/GitHub, Software Engineering Practices
+
+---
+
+## 💼 Experience
+
+- **Freelance Software Developer** — Remote  
+  Mar 2025 – Jun 2025  
+  Client Dashboard Project: Built modular frontend with React/TypeScript (Zod, TanStack Query, Tailwind CSS) and monorepo architecture (Turborepo); focused on high-quality software and responsive design.
+
+- **Software Developer Intern — Elite Software** — Remote  
+  Oct 2024 – Mar 2025  
+  Contributed to feature implementation and bug fixing in client projects; gained hands-on experience across frontend and backend.
+
+---
+
+## 🚀 Projects
+
+- **Dynamic Class Scheduling**  
+  Technologies: Gemini API, Python, Algorithm Design, Optimization Techniques  
+  - Optimized student–teacher–classroom allocation using a greedy, matrix-based approach.  
+  - Implemented AI assistant to handle student queries.
+
+- **Chess Platform**  
+  Technologies: Chess.js, React, Node.js, Express.js, Socket.IO, MongoDB, WebSockets, Tailwind CSS  
+  - Interactive chessboard with drag-and-drop, real-time move validation, and game state management.  
+  - Emphasis on responsive UI/UX and seamless gameplay.
+
+- **Ride Sharing Platform**  
+  Technologies: React, Node.js, Express.js, MongoDB, RabbitMQ, Google Maps API, Microservices Architecture  
+  - Real-time ride requests, geolocation tracking, dynamic fare calculation.  
+  - Microservices architecture with Kafka/RabbitMQ for high availability and efficient concurrent handling.
+
+---
+
+## 🎓 Education
+
+- **Veermata Jijabai Technological Institute (VJTI)** — MCA, Mumbai, Maharashtra  
+  2024 – Present (CGPA: 8.73)
+- **Alard College of Business Studies** — BCA, Pune, Maharashtra  
+  2021 – 2024 (CGPA: 8.84)
+- **GTP Junior College** — 12th (HSC), Nandurbar, Maharashtra  
+  2019 – 2021 (Percentage: 94.33%)
+
+---
+
+## 🏆 Achievements
+
+- Rank 75 in MAH MCA CET (out of 19,000 students)
+- Hackathon Finalist at PICT Pune
+- Academic Topper in Graduation
+
+---
+
+## 📜 Certifications
+
+- IBM Full Stack Developer
+- Hands-on Google Cloud (Coursera)
+
+---
+
+## 🎯 Interests
+
+- Cricket, Chess, Problem Solving, Technology Trends  
+- Volunteering at WillPower Foundation (Old Age Home)
