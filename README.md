@@ -2,7 +2,7 @@
 
 # Hi there, I'm Taha Balapurwala 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-stack+developer+in+progress;Building+cool+things+and+learning+every+day;Open+to+collaboration+on+web+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+developer+in+progress;Building+cool+things+and+learning+every+day;Open+to+collaboration+on+web+projects" alt="Typing SVG" />
 
 <br/>
 
