@@ -68,11 +68,8 @@
 ## 🎓 Education
 
 - **Veermata Jijabai Technological Institute (VJTI)** — MCA, Mumbai, Maharashtra  
-  2024 – Present (CGPA: 8.73)
 - **Alard College of Business Studies** — BCA, Pune, Maharashtra  
-  2021 – 2024 (CGPA: 8.84)
 - **GTP Junior College** — 12th (HSC), Nandurbar, Maharashtra  
-  2019 – 2021 (Percentage: 94.33%)
 
 ---
 
